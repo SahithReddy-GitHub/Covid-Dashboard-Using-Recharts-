@@ -1,0 +1,10 @@
+.cov-card {
+  background-color: #1c1c2b;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+.cov-head {
+  font-size: 18px;
+  color: #6c757d;
+  line-height: 3;
+}

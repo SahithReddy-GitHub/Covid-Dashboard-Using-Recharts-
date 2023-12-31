@@ -1,0 +1,49 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'roboto';
+}
+.bg-custom {
+  max-width: 1200px;
+  background-color: #161625;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 40px 20px 40px;
+  min-height: 100vh;
+}
+.main-head-con {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+.web-head {
+  font-size: 18px;
+  color: #2cc6c6;
+}
+.main-head {
+  font-size: 24px;
+  color: #cbd5e1;
+  line-height: 3;
+}
+.loader-custom {
+  margin-top: 100px;
+  align-self: center;
+}
+.failure-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+}
+.fail-img {
+  width: 50%;
+  margin-bottom: 25px;
+}
+.fail-head {
+  font-display: 24px;
+  color: #94a3b8;
+}
